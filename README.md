@@ -3,7 +3,7 @@
 * [Plus Minus]()
 * [Mini-Max Sum]()
 * [Time Conversion]()
-* [Find the Median](./1-Week-Preparation-Kit/D1-Find-the-Median.js)
+* [Find the Median](./1 Week Preparation Kit/D1-Find-the-Median.js)
 
 ### Day 2
 * [Lonely Integer]()
