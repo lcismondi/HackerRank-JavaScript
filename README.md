@@ -1,4 +1,6 @@
 ## 1 Week Preparation Kit
+Preparación para entrevistas técnicas de [HackerRank](https://www.hackerrank.com/interview/preparation-kits/one-week-preparation-kit/one-week-day-one/challenges).
+
 ### Day 1
 * [Plus Minus](./1%20Week%20Preparation%20Kit/D1-Plus%20Minus.js)
 * [Mini-Max Sum](./1%20Week%20Preparation%20Kit/D1-Mini-Max-Sum.js)
