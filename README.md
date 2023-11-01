@@ -23,7 +23,7 @@ Preparación para entrevistas técnicas de [HackerRank](https://www.hackerrank.c
 * [Grid Challenge](./1%20Week%20Preparation%20Kit/D4-Grid-Challenge.js)
 * [Recursive Digit Sum](./1%20Week%20Preparation%20Kit/D4-Recursive-Digit-Sum.js)
 * [New Year Chaos]()
-* ?
+* Truck Tour
   
 ### Day 5
 * [Merge two sorted linked lists]()
